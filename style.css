@@ -11,6 +11,10 @@ body {
     background-color: hsl(0, 0%, 95%);
 }
 
+.txt {
+    text-align: center;
+}    
+
 main {
     width: 65%;
     margin: auto;
